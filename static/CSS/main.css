@@ -8,6 +8,17 @@ body {
     color: white;
 }
 
+#Navigation{
+    text-align:right;
+    margin-right: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+
 #PyLibraries{
   display: table;
   margin: 0 auto;
